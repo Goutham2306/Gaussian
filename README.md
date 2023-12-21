@@ -16,7 +16,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 4. Starting from the last row, solve for variables backward using the updated matrix.
 
-Print the solution vector x with a formatted message for each variable.
+ Print the solution vector x with a formatted message for each variable.
 
 ## Program:
 ```
